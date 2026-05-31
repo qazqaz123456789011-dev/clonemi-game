@@ -7,3 +7,4 @@
 0.0.0.7a (Sounds)
 0.0.0.8b (Day & Night)
 0.0.0.9i (Survival)
+0.0.0.10a (bot update)
