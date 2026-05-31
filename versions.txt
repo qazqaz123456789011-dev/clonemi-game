@@ -8,3 +8,4 @@
 0.0.0.8b (Day & Night)
 0.0.0.9i (Survival)
 0.0.0.10f (bot update)
+0.0.1.0e (Shadows and Lighting)
