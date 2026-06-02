@@ -10,3 +10,5 @@
 0.0.0.10f (bot update)
 0.0.1.0e (Shadows and Lighting)
 0.0.1.1j (landscape)
+0.0.1.2f.c (Creative)
+0.0.1.2f.s (Survival)
